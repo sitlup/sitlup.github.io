@@ -12,9 +12,7 @@ body {
 }
 header {
 	background-color: #000;
-background: linear-gradient(to bottom, #000, rgba(43, 74, 113, 0.9));
-background-size: cover;
-background-position: center;}
+}
 #head-inner {
     padding: 25px 0;
 }
@@ -27,7 +25,7 @@ h1 {
 }
 h1 a {
 	font-weight: bold;
-	color: #ffdf4c;
+	color: #f3e6d2;
 	text-decoration: none;
 }
 h1 a:hover {
@@ -40,16 +38,16 @@ h1 a:hover {
 	margin: 0.5em 0 1em 0;
 }
 h2 {
-	font-size: 32px;
+	font-size: 22px;
 	margin: 0;
 	padding: 4px 0;
-	
+	border-bottom: 1px solid #999;
 }
 #content-wrapper {margin: 0 auto;
     width: 960px;}
 main {
 	color: #333;
-float: left; width: 70%;}
+}
 #inner {
 	padding: 20px 0 0 0;
 }
@@ -79,7 +77,7 @@ a {
 }
 aside {
 
-float: right; width: 28%;}
+}
 #middle-inner {
 	padding: 20px 0 20px 0;
 }
